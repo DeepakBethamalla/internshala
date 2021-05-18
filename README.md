@@ -1,2 +1,2 @@
 # Demo_proj
-my first project
+my first demo
